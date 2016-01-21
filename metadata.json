@@ -1,14 +1,11 @@
 {
-  "name": "dotdeb",
-  "version": "0.1.0",
-  "author": "loispuig",
-  "summary": null,
-  "license": "Apache 2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
-  "dependencies": [
-    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
-  ]
+	"name": "timezone",
+	"version": "0.1.0",
+	"author": "loispuig",
+	"summary": "Sets timezone on Debian based OS",
+	"license": "Apache 2.0",
+	"source": "",
+	"project_page": "https://github.com/loispuig/puppet-timezone",
+	"issues_url": "https://github.com/loispuig/puppet-timezone/issues",
+	"dependencies": []
 }
-
